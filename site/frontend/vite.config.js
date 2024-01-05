@@ -9,7 +9,7 @@ export default defineConfig({
     react(),
     VitePWA({
       manifest:  {
-        "name": "Anser",
+        "name": "Anser Enterprise",
         "icons": [
           {
             src: "Business/Anser/favicon_io/android-chrome-512x512.png",
